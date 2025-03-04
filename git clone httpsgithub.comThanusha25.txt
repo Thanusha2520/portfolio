@@ -1,0 +1,11 @@
+git clone https://github.com/Thanusha2520/portfolio.git
+
+
+
+
+git add .
+git commit -m "Updated portfolio"
+git push origin main
+
+
+
